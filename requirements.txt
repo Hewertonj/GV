@@ -1,0 +1,12 @@
+# ============================================================
+# Dependências do Sistema de Gestão de Vendedores
+# ============================================================
+
+# Framework Web e Dashboard interativo
+streamlit>=1.40.0,<=1.54.0
+
+# Manipulação e processamento de dados tabulares
+pandas>=2.2.0
+
+# Mecanismo para geração e exportação de relatórios em Excel (.xlsx)
+openpyxl>=3.1.2
